@@ -3,8 +3,6 @@ output_dir: "."
 navbar:
   title: "Andrew Crumpler"
   left:
-    - text: "Home"
-      href: index.html
     - text: "Resume"
       href: resume.html
     - text: "Cool Links"
